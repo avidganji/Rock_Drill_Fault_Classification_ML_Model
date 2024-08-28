@@ -1,8 +1,9 @@
-scikit-learn
 pandas
 numpy
-streamlit
-tqdm
+scikit-learn
 seaborn
 matplotlib
+streamlit
 imbalanced-learn
+tqdm
+sklearn
